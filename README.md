@@ -25,7 +25,18 @@ My academic work has covered data analysis, statistical modeling, machine learni
 
 > Open to Data Science and Data Analyst internships, entry-level opportunities, and project collaborations.
 
-## Featured Project
+## Featured Projects
+
+### [Helmet Detection - Fast R-CNN vs Faster R-CNN](https://github.com/dangthanh204bn/helmet-detection-rcnn)
+
+A computer-vision project comparing two R-CNN architectures for detecting motorcycle riders with and without helmets.
+
+- Prepared a COCO-format dataset with **4,915 images** and **8,572 object annotations**
+- Evaluated both models on a held-out test set of **492 images**
+- Achieved **0.8696 mAP@0.5**, **0.9216 recall**, and **0.8624 F1** with Faster R-CNN
+- Documented the complete training workflow, evaluation methodology, results, and limitations
+
+[View project](https://github.com/dangthanh204bn/helmet-detection-rcnn)
 
 ### [Pizza Sales Dashboard](https://github.com/dangthanh204bn/pizza-sales-dashboard)
 
@@ -57,7 +68,7 @@ A Power BI project analyzing one year of transaction data from a fictional pizza
 
 - Building reproducible data-analysis and machine-learning projects
 - Strengthening model evaluation and business insight communication
-- Preparing a computer-vision project for publication
+- Improving computer-vision evaluation and deployment workflows
 - Learning how to turn analysis and models into useful data products
 
 ## Education
