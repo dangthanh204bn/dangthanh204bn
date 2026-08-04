@@ -1,11 +1,11 @@
 <h1 align="center">Nguyen Dang Thanh</h1>
 
 <p align="center">
-  <strong>Data Science Student · Machine Learning & Applied AI Enthusiast</strong>
+  <strong>Data Science Student | Data Analytics | Machine Learning</strong>
 </p>
 
 <p align="center">
-  Hanoi, Vietnam · Expected graduation: December 2026
+  Hanoi, Vietnam | Expected graduation: December 2026
 </p>
 
 <p align="center">
@@ -19,42 +19,57 @@
 
 ## About Me
 
-I'm a final-year **Data Science student** at the **University of Economics - Technology for Industries (UNETI)**. I am interested in using data, machine learning, and applied AI to understand real-world problems and build practical solutions.
+I am a final-year **Data Science student** at the **University of Economics - Technology for Industries (UNETI)**. I enjoy turning raw data into clear insights and developing machine-learning solutions for practical problems.
 
-I am currently strengthening my technical foundation, developing a focused project portfolio, and looking for opportunities to learn through internships and collaborative work.
+My academic work has covered data analysis, statistical modeling, machine learning, deep learning, computer vision, natural language processing, SQL, and business intelligence. I am currently building a focused portfolio with reproducible projects and measurable results.
 
-> Open to Data Science internships, entry-level opportunities, and project collaborations.
+> Open to Data Science and Data Analyst internships, entry-level opportunities, and project collaborations.
+
+## Featured Project
+
+### [Pizza Sales Dashboard](https://github.com/dangthanh204bn/pizza-sales-dashboard)
+
+A Power BI project analyzing one year of transaction data from a fictional pizza restaurant.
+
+- Analyzed **21,350 orders** and **49,574 pizzas sold**
+- Measured **$817,860.05** in revenue and a **$38.31** average order value
+- Explored product, category, size, and time-based sales performance
+- Published the Power BI dashboard, source data, data model, and written report
+
+[View project](https://github.com/dangthanh204bn/pizza-sales-dashboard) | [Download dashboard](https://github.com/dangthanh204bn/pizza-sales-dashboard/blob/main/dashboard/pizza-sales-dashboard.pbix)
+
+## Technical Toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ## Current Focus
 
-- Data analysis and clear, decision-oriented visualization
-- Data preparation and reproducible analytical workflows
-- Machine-learning fundamentals, evaluation, and error analysis
-- Information retrieval and applied AI products
-
-## Portfolio Direction
-
-My upcoming portfolio will focus on three kinds of work:
-
-1. **Data analysis** — answering a meaningful question with a clean, reproducible workflow
-2. **Machine learning** — comparing a baseline with evaluated models and explaining the results
-3. **Data product** — turning analysis or a model into a dashboard or application people can try
-
-<!--
-Add a "Featured Projects" section here when projects are ready.
-Each project should include: problem, data source, method, measurable result,
-limitations, source code, and a live demo or visual evidence when available.
--->
+- Building reproducible data-analysis and machine-learning projects
+- Strengthening model evaluation and business insight communication
+- Preparing a computer-vision project for publication
+- Learning how to turn analysis and models into useful data products
 
 ## Education
 
 **University of Economics - Technology for Industries (UNETI)**  
-Data Science · GPA: 3.3/4.0 · Expected graduation: December 2026
+Data Science | GPA: 3.3/4.0 | Expected graduation: December 2026
 
 ## Contact
 
 - Email: [dangthanh204bn@gmail.com](mailto:dangthanh204bn@gmail.com)
 - GitHub: [@dangthanh204bn](https://github.com/dangthanh204bn)
+- LinkedIn: Coming soon
 
 ---
 
