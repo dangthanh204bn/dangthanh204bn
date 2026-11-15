@@ -49,6 +49,16 @@ A Power BI project analyzing one year of transaction data from a fictional pizza
 
 [View project](https://github.com/dangthanh204bn/pizza-sales-dashboard) | [Download dashboard](https://github.com/dangthanh204bn/pizza-sales-dashboard/blob/main/dashboard/pizza-sales-dashboard.pbix)
 
+### [Semantic Video Search & Video RAG](https://github.com/dangthanh204bn/semantic-video-search)
+
+A local video search demo for finding scenes from Vietnamese or English descriptions and answering questions from Vietnamese speech with timestamped sources.
+
+- Built visual and speech indexes with PyAV, OpenCV, CLIP, Faster-Whisper, and multilingual E5
+- Added multi-video search and click-to-seek playback in Flask, with local Qwen3 4B for cited answers
+- Validated search and playback on a three-video library and checked answer citations against the original transcript timestamps
+
+[View project](https://github.com/dangthanh204bn/semantic-video-search)
+
 ## Technical Toolkit
 
 <p>
