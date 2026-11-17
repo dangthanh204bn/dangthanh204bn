@@ -27,6 +27,26 @@ My academic work has covered data analysis, statistical modeling, machine learni
 
 ## Featured Projects
 
+### [Semantic Video Search & Video RAG](https://github.com/dangthanh204bn/semantic-video-search)
+
+A local video search demo for finding scenes from Vietnamese or English descriptions and answering questions from Vietnamese speech with timestamped sources.
+
+- Built visual and speech indexes with PyAV, OpenCV, CLIP, Faster-Whisper, and multilingual E5
+- Added multi-video search and click-to-seek playback in Flask, with local Qwen3 4B for cited answers
+- Validated search and playback on a three-video library and checked answer citations against the original transcript timestamps
+
+[View project](https://github.com/dangthanh204bn/semantic-video-search)
+
+### [Vietnamese Policy RAG](https://github.com/dangthanh204bn/vietnamese-policy-rag)
+
+A local retrieval-augmented generation app for answering questions in Vietnamese about policy documents in TXT and text-based PDF formats.
+
+- Built a semantic retrieval and reranking pipeline with Qwen3 4B running locally through Ollama
+- Added PDF uploads in Streamlit and a FastAPI backend that returns source citations with PDF page numbers
+- Passed **5 of 5 development evaluation cases** on a **13-page sample PDF**, covering source attribution and questions with insufficient evidence
+
+[View project](https://github.com/dangthanh204bn/vietnamese-policy-rag)
+
 ### [Helmet Detection - Fast R-CNN vs Faster R-CNN](https://github.com/dangthanh204bn/helmet-detection-rcnn)
 
 A computer-vision project comparing two R-CNN architectures for detecting motorcycle riders with and without helmets.
@@ -48,26 +68,6 @@ A Power BI project analyzing one year of transaction data from a fictional pizza
 - Published the Power BI dashboard, source data, data model, and written report
 
 [View project](https://github.com/dangthanh204bn/pizza-sales-dashboard) | [Download dashboard](https://github.com/dangthanh204bn/pizza-sales-dashboard/blob/main/dashboard/pizza-sales-dashboard.pbix)
-
-### [Semantic Video Search & Video RAG](https://github.com/dangthanh204bn/semantic-video-search)
-
-A local video search demo for finding scenes from Vietnamese or English descriptions and answering questions from Vietnamese speech with timestamped sources.
-
-- Built visual and speech indexes with PyAV, OpenCV, CLIP, Faster-Whisper, and multilingual E5
-- Added multi-video search and click-to-seek playback in Flask, with local Qwen3 4B for cited answers
-- Validated search and playback on a three-video library and checked answer citations against the original transcript timestamps
-
-[View project](https://github.com/dangthanh204bn/semantic-video-search)
-
-### [Vietnamese Policy RAG](https://github.com/dangthanh204bn/vietnamese-policy-rag)
-
-A local retrieval-augmented generation app for answering questions in Vietnamese about policy documents in TXT and text-based PDF formats.
-
-- Built a semantic retrieval and reranking pipeline with Qwen3 4B running locally through Ollama
-- Added PDF uploads in Streamlit and a FastAPI backend that returns source citations with PDF page numbers
-- Passed **5 of 5 development evaluation cases** on a **13-page sample PDF**, covering source attribution and questions with insufficient evidence
-
-[View project](https://github.com/dangthanh204bn/vietnamese-policy-rag)
 
 ## Technical Toolkit
 
