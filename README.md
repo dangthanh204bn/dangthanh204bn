@@ -59,6 +59,16 @@ A local video search demo for finding scenes from Vietnamese or English descript
 
 [View project](https://github.com/dangthanh204bn/semantic-video-search)
 
+### [Vietnamese Policy RAG](https://github.com/dangthanh204bn/vietnamese-policy-rag)
+
+A local retrieval-augmented generation app for answering questions in Vietnamese about policy documents in TXT and text-based PDF formats.
+
+- Built a semantic retrieval and reranking pipeline with Qwen3 4B running locally through Ollama
+- Added PDF uploads in Streamlit and a FastAPI backend that returns source citations with PDF page numbers
+- Passed **5 of 5 development evaluation cases** on a **13-page sample PDF**, covering source attribution and questions with insufficient evidence
+
+[View project](https://github.com/dangthanh204bn/vietnamese-policy-rag)
+
 ## Technical Toolkit
 
 <p>
